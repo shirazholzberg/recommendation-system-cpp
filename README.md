@@ -1,5 +1,6 @@
 # Recommendation System in C++
-This project implements a movie recommendation system in C++ for media streaming companies.  
+This project was implemented as part of a programming course (C & C++) in The Hebrew University.
+It implements a movie recommendation system in C++ for media streaming companies.  
 It manages users and movies and provides personalized recommendations based on two algorithms:
 - Content-based filtering
 - Collaborative filtering
